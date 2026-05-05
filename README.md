@@ -4,6 +4,8 @@ For blender artists wanting to us the zBrush Orb brushs in blender 5.+, this rep
 
 These were ported over by [@Careless_School2771](https://www.reddit.com/user/Careless_School2771/) I do not own or claim any rights. They posted them for free use on [reddit post](https://www.reddit.com/r/blender/comments/1t2klok/orb_brushes_for_blender_50/)
 
+Original google drive [drive files](https://drive.google.com/file/d/1glBWc28Rk90sN-VJVrz5XjQIDRyo8B7a/view)
+
 ---
 
 1. open a command line console and add `git clone https://github.com/OtanoStudio/Blender-5-Orb-Brushes.git`
